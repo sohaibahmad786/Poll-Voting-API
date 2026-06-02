@@ -93,7 +93,6 @@ class VoteView(ModelViewSet):
         return Response({
             'message':'Vote Submitted Successfully'
         })
-
 # Create your views here.
 
 
